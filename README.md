@@ -32,7 +32,10 @@ I\`he been learning forntend for 1,5 years. I started form basic stack and now i
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/zenia369" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://gitlab.com/YevheniiKushnir" target="_blank" rel="noreferrer"><img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png" width="45" height="45" /></a>
+</p>
+
 
 ### Badges
 
