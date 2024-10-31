@@ -1,16 +1,15 @@
-Hi 👋 My name is Yevhenii Kushnir
+Hi 👋 My name is Yev//:k
 =================================
 
-Front-end developer
+JavaScript Engineer
 -------------------
 
-I\`he been learning forntend for 1,5 years. I started form basic stack and now i have used tools like react-query, ngrx with angular...
+I\`he been learning forntend/bacnkend and an entire JS ecosystem of npm packages 😄s for - the my entire life. I started from a basic stack, then moved to various "libraries" and now i'm back to the vanilla JS...
 
-* 🌍  I'm based in Ukraine, Kyiv
+* 🌍  I'm based in Earn
 * 🖥️  See my portfolio at [CV](http://zenia369.github.io/me-CV/)
-* ✉️  You can contact me at [evgenijkushnir79@gmail.com](mailto:evgenijkushnir79@gmail.com)
-* 🚀  I'm currently working on [Keqing-site](http://keqing-site.onrender.com/)
-* 🧠  I'm learning React and tools for it
+* 🚀  I'm currently working on [Keqing-site](http://keqing-site.vercel.com/)
+* 🧠  I'm learning React (just js)
 * 🤝  I'm open to collaborating on team projects
 
 ### Skills
