@@ -7,7 +7,6 @@ JavaScript Engineer
 I\`he been learning forntend/bacnkend and an entire JS ecosystem of npm packages 😄s for - the my entire life. I started from a basic stack, then moved to various "libraries" and now i'm back to the vanilla JS...
 
 * 🌍  I'm based in Earn
-* 🖥️  See my portfolio at [CV](http://zenia369.github.io/me-CV/)
 * 🚀  I'm currently working on [Keqing-site](http://keqing-site.vercel.com/)
 * 🧠  I'm learning React (just js)
 * 🤝  I'm open to collaborating on team projects
